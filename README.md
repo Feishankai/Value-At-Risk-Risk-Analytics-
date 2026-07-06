@@ -143,23 +143,23 @@ value-at-risk-dashboard/
 
 ### Portfolio Growth
 
-![Portfolio Growth](screenshots/portfolio_growth.png)
+![Portfolio Growth](portfolio_growth-2.png)
 
 ### Portfolio Drawdown
 
-![Portfolio Drawdown](screenshots/portfolio_drawdown.png)
+![Portfolio Drawdown](portfolio_drawdown-2.png)
 
 ### Historical Value-at-Risk
 
-![Historical VaR](screenshots/historical_var.png)
+![Historical VaR](historical_var.png)
 
 ### Monte Carlo Value-at-Risk
 
-![Monte Carlo VaR](screenshots/monte_carlo_var.png)
+![Monte Carlo VaR](monte_carlo_var.png)
 
 ### VaR Comparison
 
-![VaR Comparison](screenshots/var_comparison.png)
+![VaR Comparison](var_comparison.png)
 
 ## Skills Demonstrated
 
